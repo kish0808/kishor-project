@@ -1,0 +1,72 @@
+  .cover{	  
+		margin: 100px auto;
+        width: 70%;
+        border: 1px solid #c8c8c8;
+		border-radius: 10px;
+		height: 500px;
+		background-color: #fbfbfb;
+		padding: 10px;	
+	    }
+		
+.heading{
+		font-size: -webkit-xxx-large;
+		text-align: center;
+		font-weight: 900;
+		color: #c7c7c7;
+		}
+.skill{
+		font-weight: 800;
+		font-size: 28px;
+		margin-left: 126px;
+		margin-top: 15px;
+}
+
+.st{
+		width: 39%;
+		height: 37px;
+		font-size: 14px;
+}	
+  .bstyle{
+	    width: 59px;
+        height: 35px;
+        background-color: green;
+	    margin: -8px;
+  }    	
+  .b1style{ 
+    width: 90px;
+    height: 38px;
+    margin-left: -8px;
+    font-size: 14px;
+  }
+  .divtyle{
+	  
+	margin-left: 127px;
+    margin-top: 60px; 
+  }
+  
+  #demo{
+	padding: 32px;
+
+  }
+  
+   .row{
+	border: 1px solid #c4c4c4c4;
+    display: inline-block;
+    width: 80%;
+    height: 23px;
+    padding: 5px;
+	//float: right;	
+   }
+   .sr-number{
+	border: 1px solid #c4c4c4c4;
+    display: inline-block;
+    width: 5%;
+    height: 13px;
+    padding: 10px;
+	float: left;
+   }
+   .text-deco{
+	  text-decoration:line-through;
+	  color:red;
+   }
+  
